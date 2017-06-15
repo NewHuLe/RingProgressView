@@ -1,5 +1,5 @@
 # RingProgressView
-自定义环形进度条
+自定义环形进度条，支持自定义进度条颜色、当前进度颜色、百分比文本
 
 ### 效果图如下
 ![](http://upload-images.jianshu.io/upload_images/2641731-52970a8cee33ba9b.gif?imageMogr2/auto-orient/strip)
